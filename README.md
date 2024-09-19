@@ -1,4 +1,4 @@
-Threadly
+# Threadly
 
 Threadly is a web application designed to serve as a dynamic bulletin board for colleges. It enables students, faculty, and staff to post and categorize important information in a structured and accessible manner.
 
